@@ -42,3 +42,26 @@ The personal website should include the following sections:
 
 Suggested file structure:
 
+---
+
+---
+
+## 3. HTML Page Structure
+
+Each page should include:
+
+1. **Header / Navigation Bar**
+   ```html
+   <header>
+       <nav>
+           <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="projects.html">Projects</a></li>
+               <li><a href="resume.html">Resume</a></li>
+               <li><a href="contact.html">Contact</a></li>
+           </ul>
+       </nav>
+   </header>
+
+
